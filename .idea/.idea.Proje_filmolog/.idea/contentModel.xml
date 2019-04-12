@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Proje_filmolog.2021295986.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Proje_filmolog" t="IncludeRecursive">
+        <e p="Admin" t="Include">
+          <e p="AdminWindow.xaml" t="Include" />
+          <e p="AdminWindow.xaml.cs" t="Include" />
+          <e p="editUserWindow.xaml" t="Include" />
+          <e p="editUserWindow.xaml.cs" t="Include" />
+          <e p="filmAddComponent.cs" t="Include" />
+        </e>
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Other" t="Include">
+          <e p="InfoWindow.xaml" t="Include" />
+          <e p="InfoWindow.xaml.cs" t="Include" />
+          <e p="SearchWivdow.xaml" t="Include" />
+          <e p="SearchWivdow.xaml.cs" t="Include" />
+          <e p="Who_Am_I.cs" t="Include" />
+        </e>
+        <e p="Proje_filmolog.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SİngUpUC.xaml" t="Include" />
+        <e p="SİngUpUC.xaml.cs" t="Include" />
+        <e p="Users" t="Include">
+          <e p="UsersWindow.xaml" t="Include" />
+          <e p="UsersWindow.xaml.cs" t="Include" />
+        </e>
+        <e p="aboutUs.xaml" t="Include" />
+        <e p="aboutUs.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="Proje_filmolog.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

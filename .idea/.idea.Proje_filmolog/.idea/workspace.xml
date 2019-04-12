@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c605e0-129d-4d3d-94a3-adb1f17f1a9f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proje_filmolog/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525099416000" expanded="true" signature="6:147" ph="..." />
+                <marker date="1525099416000" expanded="true" signature="149:349" ph="/* Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle ... */" />
+                <marker date="1525099416000" expanded="true" signature="664:907" ph="/* ComVisible özniteliğinin false olarak ayarlanması bu bütünleştirilmiş koddaki türleri ... */" />
+                <marker date="1525099416000" expanded="true" signature="939:1491" ph="/* Yerelleştirilebilir uygulamalar oluşturmaya başlamak için, ... */" />
+                <marker date="1525099416000" expanded="true" signature="1494:2044" ph="[assembly]" />
+                <marker date="1525099416000" expanded="true" signature="1553:1754" ph="/* temaya özgü kaynak sözlüklerinin bulunduğu yer ... */" />
+                <marker date="1525099416000" expanded="true" signature="1801:2041" ph="/* genel kaynak sözlüğünün bulunduğu yer ... */" />
+                <marker date="1525099416000" expanded="true" signature="2047:2382" ph="/* Bir derlemenin sürüm bilgileri aşağıdaki dört değerden oluşur: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/filmAddComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="280" column="19" lean-forward="true" selection-start-line="280" selection-start-column="19" selection-end-line="280" selection-end-column="19" />
+              <folding>
+                <marker date="1525536002000" expanded="false" signature="6:205" ph="..." />
+                <marker date="1525536002000" expanded="true" signature="237:18163" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="266:18161" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="389:615" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2119:2947" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2145:2792" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2189:2609" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2231:2446" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2499:2591" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2630:2755" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="2835:2937" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3069:5739" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3106:5729" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3186:3250" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3271:3373" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3413:3586" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3684:5260" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="3751:5242" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="5303:5415" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="5461:5576" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="5613:5715" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="5865:6893" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="5959:6883" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6084:6869" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6126:6696" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6218:6317" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6402:6674" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6478:6648" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6737:6851" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="6983:7039" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7183:10105" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7209:9969" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7311:9955" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7552:9937" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7700:9915" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7909:9889" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="7991:9624" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="8065:9304" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="8893:9055" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="9100:9266" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="9364:9590" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="9661:9859" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10002:10095" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10198:11048" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10224:10910" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10326:10896" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10632:10878" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="10943:11037" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11156:12434" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11250:12424" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11284:12054" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11370:11457" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11600:12036" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="11748:11974" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12091:12196" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12220:12410" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12304:12392" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12566:14028" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12660:14018" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12694:13689" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12892:13670" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="12950:13457" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="13077:13427" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="13169:13341" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="13506:13644" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="13732:13834" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="13858:14004" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14131:15114" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14225:15104" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14402:15090" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14444:14914" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14598:14892" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14674:14822" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="14955:15072" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15238:16407" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15264:16271" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15366:16257" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15560:16239" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15756:16217" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="15832:16191" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="16304:16397" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="16591:18155" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="16712:18121" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="16857:18107" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="16899:17891" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="17265:17869" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="17341:17799" ph="{...}" />
+                <marker date="1525536002000" expanded="true" signature="17932:18049" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/AdminWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-916">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <marker date="1525391000000" expanded="true" signature="6:80" ph="..." />
+                <marker date="1525391000000" expanded="true" signature="112:3605" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="119:194" ph="/// AdminWindow.xaml etkileşim mantığı ... " />
+                <marker date="1525391000000" expanded="true" signature="240:3603" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="275:330" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="468:709" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="519:586" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="800:884" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="955:1144" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="1229:1688" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="1288:1601" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="1778:2594" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="1842:2019" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="2080:2507" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="2668:2767" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="2836:3137" ph="{...}" />
+                <marker date="1525391000000" expanded="true" signature="3035:3127" ph="/* AdminWindow win = new AdminWindow(); ... */" />
+                <marker date="1525391000000" expanded="true" signature="3222:3597" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Admin/filmAddComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Admin/editUserWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Admin/AdminWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Other/InfoWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proje_filmolog/Admin/AdminWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="312" />
+    <option name="y" value="82" />
+    <option name="width" value="821" />
+    <option name="height" value="592" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Proje_filmolog" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Proje_filmolog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Proje_filmolog" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Proje_filmolog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Proje_filmolog" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Admin" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Proje_filmolog/bin/Debug/Proje_filmolog.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proje_filmolog/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Proje_filmolog/Proje_filmolog.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c605e0-129d-4d3d-94a3-adb1f17f1a9f" name="Default Changelist" comment="" />
+      <created>1551882211310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551882211310</updated>
+      <workItem from="1551882218112" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="212000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/editUserWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525525782000" expanded="true" signature="0:2789" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Grid Grid.Column=&quot;0&quot;&gt;&#10;            &lt;StackPanel&gt;&#10;                &lt;TextBox Height=&quot;30&quot; x:Name=&quot;tb_searchUser&quot; TextChanged=&quot;tb_searchUser_textChange&quot;/&gt;&#10;                &lt;ListView x:Name=&quot;userListView&quot; MouseDoubleClick=&quot;userListView_doubleClik&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/StackPanel&gt;&#10;        &lt;/Grid&gt;&#10;        &lt;Grid Grid.Column=&quot;1&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;1*&quot;/&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                &lt;DockPanel&gt;&#10;                    &lt;Label x:Name=&quot;lbl_UserName&quot; Content=&quot;Kullanıcı Adı&quot; FontSize=&quot;30&quot; Margin=&quot;10&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_realName&quot; Content=&quot;Ad Soyad&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_TelNo&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_active&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;/DockPanel&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                &lt;ListView x:Name=&quot;remark_ListView&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Grid.Row=&quot;2&quot;&gt;&#10;                &lt;Button x:Name=&quot;btn_eject&quot; Content=&quot;BANLA&quot; Click=&quot;btn_eject_Click&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="448:2779" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Grid Grid.Column=&quot;0&quot;&gt;&#10;            &lt;StackPanel&gt;&#10;                &lt;TextBox Height=&quot;30&quot; x:Name=&quot;tb_searchUser&quot; TextChanged=&quot;tb_searchUser_textChange&quot;/&gt;&#10;                &lt;ListView x:Name=&quot;userListView&quot; MouseDoubleClick=&quot;userListView_doubleClik&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/StackPanel&gt;&#10;        &lt;/Grid&gt; &lt;Grid Grid.Column=&quot;1&quot;&gt;&#10;            &lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;1*&quot;/&gt;&#10;            &lt;/Grid.RowDefinitions&gt;&#10;            &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                &lt;DockPanel&gt;&#10;                    &lt;Label x:Name=&quot;lbl_UserName&quot; Content=&quot;Kullanıcı Adı&quot; FontSize=&quot;30&quot; Margin=&quot;10&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_realName&quot; Content=&quot;Ad Soyad&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_TelNo&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_active&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;/DockPanel&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                &lt;ListView x:Name=&quot;remark_ListView&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Grid.Row=&quot;2&quot;&gt;&#10;                &lt;Button x:Name=&quot;btn_eject&quot; Content=&quot;BANLA&quot; Click=&quot;btn_eject_Click&quot;/&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="463:607" ph="&lt;&lt;ColumnDefinition Width=&quot;1*&quot;/&gt; &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="616:1189" ph="&lt;&lt;StackPanel&gt;&#10;                &lt;TextBox Height=&quot;30&quot; x:Name=&quot;tb_searchUser&quot; TextChanged=&quot;tb_searchUser_textChange&quot;/&gt;&#10;                &lt;ListView x:Name=&quot;userListView&quot; MouseDoubleClick=&quot;userListView_doubleClik&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="651:1173" ph="&lt;&lt;TextBox Height=&quot;30&quot; x:Name=&quot;tb_searchUser&quot; TextChanged=&quot;tb_searchUser_textChange&quot;/&gt; &lt;ListView x:Name=&quot;userListView&quot; MouseDoubleClick=&quot;userListView_doubleClik&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="781:1147" ph="&lt;&lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="877:1119" ph="&lt;&lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;&#10;                        &lt;/GridView&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="917:1082" ph="&lt;&lt;GridViewColumn Header=&quot;Kullanıcılar&quot; DisplayMemberBinding=&quot;{Binding uname}&quot; Width=&quot;258&quot;/&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="1198:2767" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;2*&quot;/&gt;&#10;                &lt;RowDefinition Height=&quot;1*&quot;/&gt;&#10;            &lt;/Grid.RowDefinitions&gt; &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                &lt;DockPanel&gt;&#10;                    &lt;Label x:Name=&quot;lbl_UserName&quot; Content=&quot;Kullanıcı Adı&quot; FontSize=&quot;30&quot; Margin=&quot;10&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_realName&quot; Content=&quot;Ad Soyad&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_TelNo&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_active&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;/DockPanel&gt;&#10;            &lt;/Grid&gt; &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                &lt;ListView x:Name=&quot;remark_ListView&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;&#10;            &lt;/Grid&gt; &lt;Grid Grid.Row=&quot;2&quot;&gt;&#10;                &lt;Button x:Name=&quot;btn_eject&quot; Content=&quot;BANLA&quot; Click=&quot;btn_eject_Click&quot;/&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="1233:1424" ph="&lt;&lt;RowDefinition Height=&quot;2*&quot;/&gt; &lt;RowDefinition Height=&quot;2*&quot;/&gt; &lt;RowDefinition Height=&quot;1*&quot;/&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="1437:1996" ph="&lt;&lt;DockPanel&gt;&#10;                    &lt;Label x:Name=&quot;lbl_UserName&quot; Content=&quot;Kullanıcı Adı&quot; FontSize=&quot;30&quot; Margin=&quot;10&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_realName&quot; Content=&quot;Ad Soyad&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_TelNo&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                    &lt;Label x:Name=&quot;lbl_active&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;&#10;                &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="1473:1976" ph="&lt;&lt;Label x:Name=&quot;lbl_UserName&quot; Content=&quot;Kullanıcı Adı&quot; FontSize=&quot;30&quot; Margin=&quot;10&quot;/&gt; &lt;Label x:Name=&quot;lbl_realName&quot; Content=&quot;Ad Soyad&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt; &lt;Label x:Name=&quot;lbl_TelNo&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt; &lt;Label x:Name=&quot;lbl_active&quot; Content=&quot;Telefon&quot; FontSize=&quot;20&quot; Margin=&quot;10&quot; VerticalAlignment=&quot;Center&quot;/&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="2009:2614" ph="&lt;&lt;ListView x:Name=&quot;remark_ListView&quot;&gt;&#10;                    &lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                &lt;/ListView&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="2045:2594" ph="&lt;&lt;ListView.View&gt;&#10;                        &lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="2101:2566" ph="&lt;&lt;GridView&gt;&#10;                            &lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt;&#10;                            &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;&#10;                        &lt;/GridView&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="2141:2529" ph="&lt;&lt;GridViewColumn Header=&quot;Film Adı&quot; DisplayMemberBinding=&quot;{Binding usersFilm}&quot; Width=&quot;130&quot;/&gt; &lt;GridViewColumn Header=&quot;Yorum&quot; DisplayMemberBinding=&quot;{Binding remark}&quot; Width=&quot;200&quot;/&gt; &lt;GridViewColumn Header=&quot;+/-&quot; DisplayMemberBinding=&quot;{Binding isgood}&quot; Width=&quot;20&quot;/&gt;.../&gt;" />
+            <marker date="1525525782000" expanded="true" signature="2627:2751" ph="&lt;&lt;Button x:Name=&quot;btn_eject&quot; Content=&quot;BANLA&quot; Click=&quot;btn_eject_Click&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/AdminWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525425392000" expanded="true" signature="0:4909" ph="&lt;&lt;Grid&gt;&#10;        &lt;DockPanel&gt;&#10;            &lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick&quot;&gt;&#10;                            &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt;&#10;                        &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; &#10;                  HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;35&quot;/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;Label Content=&quot;ARA&quot;/&gt;&#10;                        &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_inDB&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; &gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_search&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; Width=&quot;0&quot; HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;2&quot; Background=&quot;Turquoise&quot;&gt;&#10;                    &lt;DockPanel HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                        &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                    &lt;/DockPanel&gt; &#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt;&#10;&#10;        &lt;/DockPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="442:4899" ph="&lt;&lt;DockPanel&gt;&#10;            &lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick&quot;&gt;&#10;                            &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt;&#10;                        &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt;&#10;            &lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; &#10;                  HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;35&quot;/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;Label Content=&quot;ARA&quot;/&gt;&#10;                        &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_inDB&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; &gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_search&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; Width=&quot;0&quot; HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;2&quot; Background=&quot;Turquoise&quot;&gt;&#10;                    &lt;DockPanel HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                        &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                    &lt;/DockPanel&gt; &#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt;&#10;&#10;        &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="457:4887" ph="&lt;&lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick&quot;&gt;&#10;                            &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt;&#10;                        &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt; &lt;Grid Width=&quot;390&quot; Height=&quot;380&quot; &#10;                  HorizontalAlignment=&quot;Left&quot;&gt;&#10;                &lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;35&quot;/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt;&#10;                &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;Label Content=&quot;ARA&quot;/&gt;&#10;                        &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_inDB&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; &gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_search&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; Width=&quot;0&quot; HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt;&#10;                &lt;Grid Grid.Row=&quot;2&quot; Background=&quot;Turquoise&quot;&gt;&#10;                    &lt;DockPanel HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                        &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                    &lt;/DockPanel&gt; &#10;                &lt;/Grid&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="481:2251" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick&quot;&gt;&#10;                            &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt; &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt;&#10;                        &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="556:702" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition Height=&quot;50&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="719:1430" ph="&lt;&lt;ListView Name=&quot;FilmListView&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick&quot;&gt;&#10;                            &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="759:1406" ph="&lt;&lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                            &lt;/ListView.View&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="862:1374" ph="&lt;&lt;GridView x:Name=&quot;gridViewOfFilmList&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;&#10;                            &lt;/GridView&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="906:1329" ph="&lt;&lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;45&quot;/&gt; &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;300&quot;/&gt; &lt;GridViewColumn Header=&quot;Rate&quot; DisplayMemberBinding=&quot;{Binding rate}&quot; Width=&quot;40&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="1447:2231" ph="&lt;&lt;DockPanel&gt;&#10;                        &lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt;&#10;                        &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;&#10;                    &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="1487:2207" ph="&lt;&lt;ComboBox x:Name=&quot;PageCbox&quot; Grid.Column=&quot;0&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;15,5&quot;  Cursor=&quot;Hand&quot; HorizontalContentAlignment=&quot;Center&quot; SelectionChanged=&quot;PageCbox_SelectionChanged&quot; Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot;&gt;&#10;                            &lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;&#10;                        &lt;/ComboBox&gt; &lt;Button &#10;                            Grid.Column=&quot;1&quot;&#10;                            Content=&quot;Başlat&quot;&#10;                            x:Name=&quot;GetButton&quot;&#10;                            Click=&quot;GetButton_Click&quot;&#10;                            Margin=&quot;5,10,15,10&quot;&#10;                            /&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="1523:1874" ph="&lt;&lt;ComboBoxItem Content=&quot;Sayfa numarası seçiniz&quot; IsSelected=&quot;True&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="1899:2174" ph="&lt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2264:4865" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;                    &lt;RowDefinition Height=&quot;35&quot;/&gt;&#10;                    &lt;RowDefinition/&gt;&#10;                    &lt;RowDefinition Height=&quot;50&quot;/&gt;&#10;                &lt;/Grid.RowDefinitions&gt; &lt;Grid Grid.Row=&quot;0&quot;&gt;&#10;                    &lt;DockPanel&gt;&#10;                        &lt;Label Content=&quot;ARA&quot;/&gt;&#10;                        &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;&#10;                    &lt;/DockPanel&gt;&#10;                &lt;/Grid&gt; &lt;Grid Grid.Row=&quot;1&quot;&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_inDB&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; &gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                    &lt;ListView Name=&quot;FilmListView_search&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; Width=&quot;0&quot; HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;&#10;                &lt;/Grid&gt; &lt;Grid Grid.Row=&quot;2&quot; Background=&quot;Turquoise&quot;&gt;&#10;                    &lt;DockPanel HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                        &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                    &lt;/DockPanel&gt; &#10;                &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2358:2553" ph="&lt;&lt;RowDefinition Height=&quot;35&quot;/&gt; &lt;RowDefinition/&gt; &lt;RowDefinition Height=&quot;50&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2570:2856" ph="&lt;&lt;DockPanel&gt;&#10;                        &lt;Label Content=&quot;ARA&quot;/&gt;&#10;                        &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;&#10;                    &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2610:2832" ph="&lt;&lt;Label Content=&quot;ARA&quot;/&gt; &lt;TextBox x:Name=&quot;tb_searchFilm_inDB&quot;&#10;                             TextChanged=&quot;tb_search_filmTextChange&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2693:2799" ph="&lt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2873:4056" ph="&lt;&lt;ListView Name=&quot;FilmListView_inDB&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; &gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt; &lt;ListView Name=&quot;FilmListView_search&quot; MouseDoubleClick=&quot;FilmListView_DoubleClick_inDB&quot; Width=&quot;0&quot; HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;&#10;                    &lt;/ListView&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="2913:3451" ph="&lt;&lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                    &lt;/ListView.View&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="3023:3419" ph="&lt;&lt;GridView x:Name=&quot;gridViewOfFilmList_inDB&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;&#10;                            &lt;/GridView&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="3067:3382" ph="&lt;&lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot; Width=&quot;65&quot;/&gt; &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot; Width=&quot;320&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="3472:4032" ph="&lt;&lt;ListView.View&gt;&#10;                            &lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;&#10;                        &lt;/ListView.View&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="3621:4000" ph="&lt;&lt;GridView x:Name=&quot;gridViewOfFilmList_search&quot;&gt;&#10;                                &lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt;&#10;                                &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;&#10;                            &lt;/GridView&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="3665:3959" ph="&lt;&lt;GridViewColumn Header=&quot;Rank&quot; DisplayMemberBinding=&quot;{Binding rank}&quot;/&gt; &lt;GridViewColumn Header=&quot;Fİlm NaMe&quot; DisplayMemberBinding=&quot;{Binding name}&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="4073:4845" ph="&lt;&lt;DockPanel HorizontalAlignment=&quot;Right&quot;&gt;&#10;                        &lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                        &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;&#10;                    &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="4136:4820" ph="&lt;&lt;Button Click=&quot;btn_btn_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Yenile&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt; &lt;Button Click=&quot;btn_editUser_Click&quot;&#10;                                Height=&quot;30&quot;&#10;                                Width=&quot;88&quot;&#10;                                Content=&quot;Kullanıcı Düzenle&quot;&#10;                                HorizontalAlignment=&quot;Right&quot;&#10;                                Margin=&quot;10,0&quot;/&gt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="4200:4473" ph="&lt;.../&gt;" />
+            <marker date="1525425392000" expanded="true" signature="4498:4787" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Other/InfoWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525107682000" expanded="true" signature="0:511" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1525107682000" expanded="true" signature="474:501" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/AdminWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-916">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <marker date="1525391000000" expanded="true" signature="6:80" ph="..." />
+            <marker date="1525391000000" expanded="true" signature="112:3605" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="119:194" ph="/// AdminWindow.xaml etkileşim mantığı ... " />
+            <marker date="1525391000000" expanded="true" signature="240:3603" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="275:330" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="468:709" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="519:586" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="800:884" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="955:1144" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="1229:1688" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="1288:1601" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="1778:2594" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="1842:2019" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="2080:2507" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="2668:2767" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="2836:3137" ph="{...}" />
+            <marker date="1525391000000" expanded="true" signature="3035:3127" ph="/* AdminWindow win = new AdminWindow(); ... */" />
+            <marker date="1525391000000" expanded="true" signature="3222:3597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525099416000" expanded="true" signature="6:147" ph="..." />
+            <marker date="1525099416000" expanded="true" signature="149:349" ph="/* Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle ... */" />
+            <marker date="1525099416000" expanded="true" signature="664:907" ph="/* ComVisible özniteliğinin false olarak ayarlanması bu bütünleştirilmiş koddaki türleri ... */" />
+            <marker date="1525099416000" expanded="true" signature="939:1491" ph="/* Yerelleştirilebilir uygulamalar oluşturmaya başlamak için, ... */" />
+            <marker date="1525099416000" expanded="true" signature="1494:2044" ph="[assembly]" />
+            <marker date="1525099416000" expanded="true" signature="1553:1754" ph="/* temaya özgü kaynak sözlüklerinin bulunduğu yer ... */" />
+            <marker date="1525099416000" expanded="true" signature="1801:2041" ph="/* genel kaynak sözlüğünün bulunduğu yer ... */" />
+            <marker date="1525099416000" expanded="true" signature="2047:2382" ph="/* Bir derlemenin sürüm bilgileri aşağıdaki dört değerden oluşur: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proje_filmolog/Admin/filmAddComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="280" column="19" lean-forward="true" selection-start-line="280" selection-start-column="19" selection-end-line="280" selection-end-column="19" />
+          <folding>
+            <marker date="1525536002000" expanded="false" signature="6:205" ph="..." />
+            <marker date="1525536002000" expanded="true" signature="237:18163" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="266:18161" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="389:615" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2119:2947" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2145:2792" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2189:2609" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2231:2446" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2499:2591" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2630:2755" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="2835:2937" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3069:5739" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3106:5729" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3186:3250" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3271:3373" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3413:3586" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3684:5260" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="3751:5242" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="5303:5415" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="5461:5576" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="5613:5715" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="5865:6893" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="5959:6883" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6084:6869" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6126:6696" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6218:6317" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6402:6674" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6478:6648" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6737:6851" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="6983:7039" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7183:10105" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7209:9969" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7311:9955" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7552:9937" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7700:9915" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7909:9889" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="7991:9624" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="8065:9304" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="8893:9055" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="9100:9266" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="9364:9590" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="9661:9859" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10002:10095" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10198:11048" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10224:10910" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10326:10896" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10632:10878" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="10943:11037" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11156:12434" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11250:12424" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11284:12054" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11370:11457" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11600:12036" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="11748:11974" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12091:12196" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12220:12410" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12304:12392" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12566:14028" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12660:14018" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12694:13689" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12892:13670" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="12950:13457" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="13077:13427" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="13169:13341" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="13506:13644" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="13732:13834" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="13858:14004" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14131:15114" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14225:15104" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14402:15090" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14444:14914" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14598:14892" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14674:14822" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="14955:15072" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15238:16407" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15264:16271" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15366:16257" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15560:16239" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15756:16217" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="15832:16191" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="16304:16397" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="16591:18155" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="16712:18121" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="16857:18107" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="16899:17891" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="17265:17869" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="17341:17799" ph="{...}" />
+            <marker date="1525536002000" expanded="true" signature="17932:18049" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

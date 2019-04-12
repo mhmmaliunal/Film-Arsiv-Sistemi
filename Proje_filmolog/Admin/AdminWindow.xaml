@@ -1,0 +1,93 @@
+﻿<Window x:Class="Proje_filmolog.Admin.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DockPanel>
+            <Grid Width="390" Height="380" HorizontalAlignment="Left">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <ListView Name="FilmListView" MouseDoubleClick="FilmListView_DoubleClick">
+                            <ListView.View>
+                            <GridView x:Name="gridViewOfFilmList">
+                                <GridViewColumn Header="Rank" DisplayMemberBinding="{Binding rank}" Width="45"/>
+                                <GridViewColumn Header="Fİlm NaMe" DisplayMemberBinding="{Binding name}" Width="300"/>
+                                <GridViewColumn Header="Rate" DisplayMemberBinding="{Binding rate}" Width="40"/>
+                            </GridView>
+                            </ListView.View>
+                    </ListView>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <DockPanel>
+                        <ComboBox x:Name="PageCbox" Grid.Column="0" VerticalAlignment="Center" Margin="15,5"  Cursor="Hand" HorizontalContentAlignment="Center" SelectionChanged="PageCbox_SelectionChanged" Width="250" HorizontalAlignment="Left">
+                            <ComboBoxItem Content="Sayfa numarası seçiniz" IsSelected="True"/>
+                        </ComboBox>
+                        <Button 
+                            Grid.Column="1"
+                            Content="Başlat"
+                            x:Name="GetButton"
+                            Click="GetButton_Click"
+                            Margin="5,10,15,10"
+                            />
+                    </DockPanel>
+                </Grid>
+            </Grid>
+            <Grid Width="390" Height="380" 
+                  HorizontalAlignment="Left">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <DockPanel>
+                        <Label Content="ARA"/>
+                        <TextBox x:Name="tb_searchFilm_inDB"
+                             TextChanged="tb_search_filmTextChange"/>
+                    </DockPanel>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <ListView Name="FilmListView_inDB" MouseDoubleClick="FilmListView_DoubleClick_inDB" >
+                        <ListView.View>
+                            <GridView x:Name="gridViewOfFilmList_inDB">
+                                <GridViewColumn Header="Rank" DisplayMemberBinding="{Binding rank}" Width="65"/>
+                                <GridViewColumn Header="Fİlm NaMe" DisplayMemberBinding="{Binding name}" Width="320"/>
+                            </GridView>
+                    </ListView.View>
+                    </ListView>
+                    <ListView Name="FilmListView_search" MouseDoubleClick="FilmListView_DoubleClick_inDB" Width="0" HorizontalAlignment="Right">
+                        <ListView.View>
+                            <GridView x:Name="gridViewOfFilmList_search">
+                                <GridViewColumn Header="Rank" DisplayMemberBinding="{Binding rank}"/>
+                                <GridViewColumn Header="Fİlm NaMe" DisplayMemberBinding="{Binding name}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+                <Grid Grid.Row="2" Background="Turquoise">
+                    <DockPanel HorizontalAlignment="Right">
+                        <Button Click="btn_btn_Click"
+                                Height="30"
+                                Width="88"
+                                Content="Yenile"
+                                HorizontalAlignment="Right"
+                                Margin="10,0"/>
+                        <Button Click="btn_editUser_Click"
+                                Height="30"
+                                Width="88"
+                                Content="Kullanıcı Düzenle"
+                                HorizontalAlignment="Right"
+                                Margin="10,0"/>
+                    </DockPanel> 
+                </Grid>
+            </Grid>
+
+        </DockPanel>
+    </Grid>
+</Window>
